@@ -148,6 +148,10 @@ p {
   cursor: pointer;
 }
 
+.bg-blue:hover {
+  background-color: var(--cobalt-blue);
+}
+
 @media screen and (max-width: 428px){
   .container {
     display: block;
